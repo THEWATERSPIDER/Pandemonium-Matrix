@@ -39,11 +39,4 @@ const pandemoniumMatrix = {
     "8::7": { name: "MOMBBO", description: "Cyclic Chronodemon of Hybridity" },
     "9::0": { name: "UTTUNUL", description: "Syzygetic Xenodemon of Atonality" },
     "9::1": { name: "TUTAGOOL (YETTUK)", description: "Amphidemon of Punctuality" },
-    "9::2": { name: "UNNUNDDO (THE FALSE NUN)", description: "Amphidemon of Endless Uncasing (onion-skin horror)" },
-    "9::3": { name: "UNUNUTTIX (TICK-TOCK)", description: "Chaotic Xenodemon of Absolute Coincidence" },
-    "9::4": { name: "UNUNAK (NUKE)", description: "Amphidemon of Convulsions" },
-    "9::5": { name: "TUKUTU (KILLER-KATE)", description: "Amphidemon of Death-Strokes" },
-    "9::6": { name: "UNNUTCHI (OUTCH, T'AI CHI)", description: "Chaotic Xenodemon of Coiling Outsideness" },
-    "9::7": { name: "NUTTUBAB (NUT-CRACKER)", description: "Amphidemon of Metaloid Unlife" },
-    "9::8": { name: "UMMNU (OM, OMNI, AMEN, OMEN)", description: "Amphidemon of Earth-Screams" }
-};
+    "9::2": { name: "UNNUNDDO (THE FALSE NUN)", description: "Amphidemon of Endless 
