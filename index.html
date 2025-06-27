@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandemonium Matrix Gematria Calculator</title>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="terminal">
+            <div class="terminal-header">
+                <div class="terminal-title">PANDEMONIUM MATRIX GEMATRIA CALCULATOR</div>
+                <div class="terminal-buttons">
+                    <span class="button"></span>
+                    <span class="button"></span>
+                    <span class="button"></span>
+                </div>
+            </div>
+            <div class="terminal-body">
+                <div class="input-section">
+                    <div class="prompt">> ENTER WORD OR PHRASE:</div>
+                    <input type="text" id="input-text" autocomplete="off">
+                    <button id="calculate-btn">CALCULATE</button>
+                </div>
+                <div class="output-section">
+                    <div id="loading" class="hidden">CALCULATING...</div>
+                    <div id="output-result"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="pandemonium-data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
